@@ -1,0 +1,10 @@
+{
+  "name": "乒乓助手",
+  "short_name": "乒乓助手",
+  "description": "乒乓球选手战绩、年度积分与双方胜率查询",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0aa4df",
+  "lang": "zh-CN"
+}
